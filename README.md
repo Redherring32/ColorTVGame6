@@ -9,6 +9,9 @@ no PCB layout/design files/BOM are included.
 * ColorTVGame6.sch: schematic source file
 * ColorTVGame6.lib: symbol library
 
+![Schematic](https://i.imgur.com/TjrF6nJ.png)
+
+
 ## License:
 
 Licensed under
